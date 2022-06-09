@@ -1,9 +1,14 @@
-import './App.css'
+import './App.css';
+import MainDash from './components/sidebar/MainDash/MainDash';
+import SideBar from './components/sidebar/SideBar';
 
 function App() {
   return (
     <div className="App">
-        Subscribe Zainkeepscode
+      <div className='AppGlass'>
+        <SideBar />
+        <MainDash />
+      </div>
     </div>
   );
 }
