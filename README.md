@@ -1,6 +1,9 @@
 # React Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a build of an advanced dashboard with charts
+
+## Live Deploy
+[Click here](https://enterpreneur-dashboard.netlify.app/) to view live deploy
 
 ## Available Scripts
 
