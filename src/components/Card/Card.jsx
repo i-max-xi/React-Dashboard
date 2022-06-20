@@ -109,7 +109,7 @@ const data = {
       style={{
           alignSelf: 'flex-end',
           cursor: 'pointer',
-          color: 'white'
+          color: 'white',
         }}>
         <UilTimes onClick={setExpanded}/>
       </div>
